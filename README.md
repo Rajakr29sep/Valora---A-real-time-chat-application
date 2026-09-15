@@ -4,7 +4,7 @@ A modern real-time chat application built using the MERN stack with Socket.IO.
 
 ## 🚀 Live Demo
 
-👉 [Visit Valora]((https://valora-the-chat.onrender.com/))
+👉 [Visit Valora](https://valora-the-chat.onrender.com/)
 
 ## ✨ Features
 
