@@ -13,7 +13,7 @@ import { app, server } from "./socket/socket.js";
 
 //middleware
 app.use(cors({
-    origin: "http://localhost:5173",
+    origin: "https://valora-the-chat.onrender.com",
     credentials: true
 }));
 app.use(express.json());
